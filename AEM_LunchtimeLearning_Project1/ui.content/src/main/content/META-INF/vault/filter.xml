@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/AEM_LunchtimeLearning_Project1"/>
+    <filter root="/content/AEM_LunchtimeLearning_Project1"/>
+    <filter root="/content/dam/AEM_LunchtimeLearning_Project1"/>
+</workspaceFilter>
